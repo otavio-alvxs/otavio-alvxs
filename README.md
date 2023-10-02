@@ -1,16 +1,16 @@
-### Hi there 👋
+# Otavio Alves Oliveira Costa
 
-<!--
-**otavio-alvxs/otavio-alvxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+Prazer, sou o Otavio, um estudante iniciando no mundo da programação e tecnologia no geral, tenho 18 anos e me interesso em aprender mais sobre o mundo digital desde quando o conheci, e de lá pra cá venho adquirindo o máximo de conhecimento possível na área.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Atualmente cursando Sistemas de Informação na Libertas Faculdades Integradas.
+### Um amante de jogos no geral, de onde tiro muitas inspirações.
+### Apaixonado por aprender, gosto muito de estudar sobre vários assuntos, principalmente sobre o mundo da tecnologia.
+
+## Contato
+
+Algumas das minhas redes sociais abaixo:
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/otavio_alvxs?igshid=OGQ5ZDc2ODk2ZA==)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/otavio-alvxs)
