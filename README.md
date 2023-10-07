@@ -4,9 +4,9 @@
 
 Prazer, sou o Otavio, um estudante iniciando no mundo da programação e tecnologia no geral, tenho 18 anos e me interesso em aprender mais sobre o mundo digital desde quando o conheci, e de lá pra cá venho adquirindo o máximo de conhecimento possível na área.
 
-- Atualmente cursando Sistemas de Informação na Libertas Faculdades Integradas.
-- Um amante de jogos no geral, de onde tiro muitas inspirações.
-- Apaixonado por aprender, gosto muito de estudar sobre vários assuntos, principalmente sobre o mundo da tecnologia.
+- 💻 Atualmente cursando Sistemas de Informação na Libertas Faculdades Integradas.
+- 🎮 Um amante de jogos no geral, de onde tiro muitas inspirações.
+- 📚 Apaixonado por aprender, gosto muito de estudar sobre vários assuntos, principalmente sobre o mundo da tecnologia.
 
 ## Contato
 
