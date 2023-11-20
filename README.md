@@ -13,4 +13,3 @@ Prazer, sou o Otavio, um estudante iniciando no mundo da programação e tecnolo
 - Algumas das minhas redes sociais abaixo:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/otavio_alvxs?igshid=OGQ5ZDc2ODk2ZA==)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/otavio-alvxs)
